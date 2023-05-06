@@ -1,0 +1,24 @@
+[
+  {
+    "oximetro": {},
+    "termometro": {},
+    "Id": 1,
+    "Nome": "Aux",
+    "Sexo": "M",
+    "Idade": 20,
+    "Status": "Grave",
+    "taxaO2": 91,
+    "temperatura": 34.2
+  },
+  {
+    "oximetro": {},
+    "termometro": {},
+    "Id": 2,
+    "Nome": "Aux2",
+    "Sexo": "F",
+    "Idade": 50,
+    "Status": "Grave",
+    "taxaO2": 88,
+    "temperatura": 36.2
+  }
+]
