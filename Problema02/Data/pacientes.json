@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "Nome": "P1",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Moderado",
+    "taxaO2": 93,
+    "temperatura": 35.3
+  },
+  {
+    "Id": 2,
+    "Nome": "P2",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 89,
+    "temperatura": 36.6
+  },
+  {
+    "Id": 3,
+    "Nome": "P3",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 90,
+    "temperatura": 34.4
+  },
+  {
+    "Id": 4,
+    "Nome": "P4",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 94,
+    "temperatura": 38.9
+  },
+  {
+    "Id": 5,
+    "Nome": "P5",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 91,
+    "temperatura": 35.4
+  },
+  {
+    "Id": 6,
+    "Nome": "P6",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 92,
+    "temperatura": 34.2
+  },
+  {
+    "Id": 7,
+    "Nome": "P7",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 94,
+    "temperatura": 39.8
+  },
+  {
+    "Id": 8,
+    "Nome": "P8",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 90,
+    "temperatura": 36.7
+  },
+  {
+    "Id": 9,
+    "Nome": "P9",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 89,
+    "temperatura": 38.1
+  },
+  {
+    "Id": 10,
+    "Nome": "P10",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Moderado",
+    "taxaO2": 95,
+    "temperatura": 35.9
+  },
+  {
+    "Id": 11,
+    "Nome": "P11",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Moderado",
+    "taxaO2": 92,
+    "temperatura": 35.1
+  },
+  {
+    "Id": 12,
+    "Nome": "P12",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 93,
+    "temperatura": 39.7
+  },
+  {
+    "Id": 13,
+    "Nome": "P13",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 93,
+    "temperatura": 39.5
+  },
+  {
+    "Id": 14,
+    "Nome": "P14",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 95,
+    "temperatura": 38.9
+  },
+  {
+    "Id": 15,
+    "Nome": "P15",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 91,
+    "temperatura": 39.9
+  },
+  {
+    "Id": 16,
+    "Nome": "P16",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 91,
+    "temperatura": 34.7
+  },
+  {
+    "Id": 17,
+    "Nome": "P17",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 95,
+    "temperatura": 38.8
+  },
+  {
+    "Id": 18,
+    "Nome": "P18",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 90,
+    "temperatura": 34.0
+  },
+  {
+    "Id": 19,
+    "Nome": "P19",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Moderado",
+    "taxaO2": 92,
+    "temperatura": 37.6
+  },
+  {
+    "Id": 20,
+    "Nome": "P20",
+    "Sexo": null,
+    "Idade": 0,
+    "Status": "Grave",
+    "taxaO2": 89,
+    "temperatura": 36.4
+  }
+]

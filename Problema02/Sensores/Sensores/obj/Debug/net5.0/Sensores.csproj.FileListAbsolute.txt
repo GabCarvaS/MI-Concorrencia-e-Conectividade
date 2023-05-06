@@ -1,0 +1,38 @@
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.exe
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.deps.json
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.runtimeconfig.json
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.dll
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\ref\Sensores.dll
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Sensores.pdb
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\M2Mqtt.Net.dll
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.CopyComplete
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.dll
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\ref\Sensores.dll
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.pdb
+C:\Users\Gabri\source\repos\Sensores\Sensores\obj\Debug\net5.0\Sensores.genruntimeconfig.cache
+C:\Users\Gabri\source\repos\Sensores\Sensores\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.exe
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.deps.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.runtimeconfig.dev.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\ref\Sensores.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Sensores.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\M2Mqtt.Net.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\ref\Sensores.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\Sensores\Sensores\obj\Debug\net5.0\Sensores.genruntimeconfig.cache

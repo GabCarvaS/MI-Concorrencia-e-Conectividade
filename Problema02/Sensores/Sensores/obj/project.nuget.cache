@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGGO1qbs6dNnyOUQGQhZ3a6E20fEC7TDPzVo/WcAd2v0laOu3bLau+GxufTRiqNGS7PnC3ZhMfQ4lZN4W6lMcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\PBL02_Redes\\Sensores\\Sensores\\Sensores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabri\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512",
+    "C:\\Users\\Gabri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'M2Mqtt 4.3.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "M2Mqtt",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
