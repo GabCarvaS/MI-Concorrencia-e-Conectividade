@@ -1,0 +1,66 @@
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\appsettings.json
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.exe
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.deps.json
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.runtimeconfig.json
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.runtimeconfig.dev.json
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\ref\Companhia01.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.pdb
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.AssemblyInfoInputs.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.AssemblyInfo.cs
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.CoreCompileInputs.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\staticwebassets\Companhia01.StaticWebAssets.Manifest.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\staticwebassets\Companhia01.StaticWebAssets.xml
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\scopedcss\bundle\Companhia01.styles.css
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.RazorTargetAssemblyInfo.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.CopyComplete
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.dll
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\ref\Companhia01.dll
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.pdb
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.genruntimeconfig.cache
+D:\Documentos\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\appsettings.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.exe
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.deps.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.runtimeconfig.dev.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\ref\Companhia01.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Companhia01.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\staticwebassets\Companhia01.StaticWebAssets.Manifest.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\staticwebassets\Companhia01.StaticWebAssets.xml
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\scopedcss\bundle\Companhia01.styles.css
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.RazorTargetAssemblyInfo.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\ref\Companhia01.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\TesteServidor01\TesteServidor01\obj\Debug\net5.0\Companhia01.genruntimeconfig.cache

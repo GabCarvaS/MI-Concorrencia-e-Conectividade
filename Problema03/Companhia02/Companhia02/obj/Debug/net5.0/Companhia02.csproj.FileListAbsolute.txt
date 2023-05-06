@@ -1,0 +1,66 @@
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\appsettings.json
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.exe
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.deps.json
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.runtimeconfig.json
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\ref\Companhia02.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.pdb
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\staticwebassets\Companhia02.StaticWebAssets.Manifest.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\staticwebassets\Companhia02.StaticWebAssets.xml
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\scopedcss\bundle\Companhia02.styles.css
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.RazorTargetAssemblyInfo.cache
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.CopyComplete
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\ref\Companhia02.dll
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.pdb
+C:\Users\Gabri\source\repos\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\appsettings.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.exe
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.deps.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.runtimeconfig.dev.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\ref\Companhia02.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Companhia02.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\staticwebassets\Companhia02.StaticWebAssets.Manifest.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\staticwebassets\Companhia02.StaticWebAssets.xml
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\scopedcss\bundle\Companhia02.styles.css
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.RazorTargetAssemblyInfo.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\ref\Companhia02.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\Companhia02\Companhia02\obj\Debug\net5.0\Companhia02.genruntimeconfig.cache

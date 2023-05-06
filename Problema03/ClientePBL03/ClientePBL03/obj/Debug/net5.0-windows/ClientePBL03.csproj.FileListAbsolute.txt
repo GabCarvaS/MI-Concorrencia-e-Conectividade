@@ -1,0 +1,46 @@
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.exe
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.deps.json
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.runtimeconfig.json
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ref\ClientePBL03.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.pdb
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.AssemblyReference.cache
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.Form1.resources
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.GenerateResource.cache
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.CopyComplete
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ref\ClientePBL03.dll
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.pdb
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.genruntimeconfig.cache
+C:\Users\Gabri\source\repos\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.exe
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.deps.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.runtimeconfig.dev.json
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ref\ClientePBL03.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\ClientePBL03.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.Form1.resources
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.GenerateResource.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ref\ClientePBL03.dll
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.pdb
+C:\Users\Gabri\OneDrive\Área de Trabalho\UEFS\PBL03_Redes\ClientePBL03\ClientePBL03\obj\Debug\net5.0-windows\ClientePBL03.genruntimeconfig.cache
